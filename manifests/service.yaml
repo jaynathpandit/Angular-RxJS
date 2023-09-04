@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: Deployment
-  namespace: namespace-workflow-1693495803035
+  namespace: namespace-workflow-bosch
 spec:
   type: LoadBalancer
   selector:
