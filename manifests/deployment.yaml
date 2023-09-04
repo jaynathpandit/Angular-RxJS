@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: Deployment
-          image: conacr.azurecr.io/image-workflow-1693495803035:latest
+          image: conacr.azurecr.io/image-workflow-1693495803035
           
           ports:
             - containerPort: 3000
