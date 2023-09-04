@@ -4,7 +4,7 @@ metadata:
   name: Deployment
   labels:
     app: Deployment
-  namespace: boschnamespace
+  namespace: image-workflow-1693495803035
 spec:
   replicas: 1
   selector:
